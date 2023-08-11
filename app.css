@@ -19,10 +19,10 @@ body{
 }
 
 body.correct{
-    --hue : var(var(--hue-correct))
+    --hue : var(--hue-correct)
 }
 body.wrong{
-    --hue : var(var(--hue-wrong))
+    --hue : var(--hue-wrong)
 }
 .container{
     width: 800px;
